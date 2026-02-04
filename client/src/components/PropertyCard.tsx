@@ -86,7 +86,7 @@ const PropertyCard = ({ property, onViewTour, onViewMap }: PropertyCardProps) =>
         </p>
 
         {/* Name and location */}
-        <h3 className="text-xl font-serif font-semibold text-foreground mb-1">
+        <h3 className="text-xl font-serif font-semibold text-foreground mb-1 drop-shadow-sm">
           {property.name}
         </h3>
         <p className="text-sm text-muted-foreground mb-4">{property.location}</p>

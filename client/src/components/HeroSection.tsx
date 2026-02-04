@@ -27,7 +27,7 @@ const HeroSection = () => {
         </div>
 
         {/* Main title */}
-        <h1 className="text-6xl md:text-8xl lg:text-9xl font-serif font-bold mb-6 opacity-0 animate-fade-in-up delay-200">
+        <h1 className="text-6xl md:text-8xl lg:text-9xl font-serif font-bold mb-6 opacity-0 animate-fade-in-up delay-200 drop-shadow-[0_2px_10px_rgba(0,0,0,0.3)]">
           <span className="text-gold-gradient">AURUM</span>
         </h1>
 
